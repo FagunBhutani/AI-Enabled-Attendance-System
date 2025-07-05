@@ -69,9 +69,9 @@ while True:
             cv2.putText(img, name, (x1 + 6, y2 - 6), cv2.FONT_HERSHEY_COMPLEX, 1, (255, 255, 255), 2)
             markAttendance(name)
 
-            email_sender = 'railwayaccidentpreventerdevice@gmail.com'
+            email_sender = 'your email'
             email_password = 'gwve oatn ggbw ijys'
-            email_receiver = 'bhutanifagun2019@gmail.com'
+            email_receiver = 'any other email'
 
             # Set the subject and body of the email
             subject = 'hi!'
