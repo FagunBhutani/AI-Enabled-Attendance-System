@@ -70,7 +70,7 @@ while True:
             markAttendance(name)
 
             email_sender = 'your email'
-            email_password = 'gwve oatn ggbw ijys'
+            email_password = 'app password'
             email_receiver = 'any other email'
 
             # Set the subject and body of the email
